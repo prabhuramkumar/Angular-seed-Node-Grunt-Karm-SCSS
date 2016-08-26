@@ -1,0 +1,24 @@
+.list-page__title {
+	font-size: 30px;
+	margin: 20px 0;
+}
+
+.list-page__wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.property-list {
+	width: 30%;
+	min-width: 230px;
+	margin: 30px;
+	padding: 30px;
+	background-color: #ececec;
+	border: 1px dotted #666;
+}
+
+.property-list__title {
+	padding: 10px;
+	font-size: 28px;
+	text-align: center;
+}

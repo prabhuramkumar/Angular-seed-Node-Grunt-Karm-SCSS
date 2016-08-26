@@ -1,0 +1,22 @@
+{
+    "results": [
+        {
+            "name": "Property1",
+            "id": "1"
+        },
+        {
+            "name": "Property2",
+            "id": "2"
+        }
+    ],
+    "saved": [
+        {
+            "name": "Property3",
+            "id": "4"
+        },
+        {
+            "name": "Property4",
+            "id": "3"
+        }
+    ]
+}
