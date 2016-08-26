@@ -5,13 +5,13 @@ define(['propertyModule'], function(){
 	    data = {
 	            "results": [
 	                {
-	                    "price": "$526,500",
+	                    "name": "property1",
 	                    "id": "4"
 	                }
 	            ],
 	            "saved": [
 	                {
-	                    "price": "$826,500",
+	                    "name": "property2",
 	                    "id": "3"
 	                }
 	            ]
